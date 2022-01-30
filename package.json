@@ -1,0 +1,24 @@
+{
+  "name": "multi-http-provider",
+  "version": "0.1.2",
+  "description": "Enable the web3 api to connect to several Ethereum nodes to ensure that a node will be reached if others are down.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byolabisi/web3-api-multi-http.git"
+  },
+  "keywords": [
+    "ethereum",
+    "web3",
+    "httpprovider"
+  ],
+  "author": "Olabisi Oduola <olabisi.io@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byolabisi/web3-api-multi-http/issues"
+  },
+  "homepage": "https://github.com/byolabisi/web3-api-multi-http/my_package"
+}
